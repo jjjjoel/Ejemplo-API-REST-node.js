@@ -3,6 +3,7 @@ Ejemplo API REST node.js para la tarea de infografía 2
 
 
 Integrantes del grupo: 
+
 David Antonio Cartagena Alas CA210565
 
 Walter Leonel Vasquez VG220015
